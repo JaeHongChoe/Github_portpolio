@@ -2,17 +2,6 @@
 
 # 2022 포트폴리오
 
-</p>
-
-<br><br>
-<h3 align="center">😀 About Me 😀</h3><br>
-
-<p align="center">
-    <a href="https://fossil-friend-543.notion.site/Portfolio-05bd28a7a6ad47eea93f683342495a4d">
-      <img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
-    
-</p>
-
 <p align="center">Click to go </p>
 
 ## 인적사항
