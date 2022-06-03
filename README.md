@@ -27,16 +27,6 @@
 
 </p>
 
-<br><br>
-
-<p align="center">
-    <a href="https://fossil-friend-543.notion.site/Portfolio-05bd28a7a6ad47eea93f683342495a4d">
-      <img src="[https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf](https://bejewled-larch-d2a.notion.site/Jay-s-Notion-0ed2c9b6f92b4d35b1fc64cb340449fe)"/></a><br>
-    
-</p>
-
-
-<p align="center">Click to go </p>
 
 ## 동아리 및 멘토링 활동
 - **2022 학술동아리 <멀티플렉스>**
