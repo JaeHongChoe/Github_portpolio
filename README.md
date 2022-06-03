@@ -1,5 +1,3 @@
-# Github_portpolio
-
 # 2022 포트폴리오
 
 ## 인적사항
