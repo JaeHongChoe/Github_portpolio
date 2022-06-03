@@ -2,6 +2,19 @@
 
 # 2022 포트폴리오
 
+</p>
+
+<br><br>
+<h3 align="center">😀 About Me 😀</h3><br>
+
+<p align="center">
+    <a href="https://fossil-friend-543.notion.site/Portfolio-05bd28a7a6ad47eea93f683342495a4d">
+      <img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
+    
+</p>
+
+<p align="center">Click to go </p>
+
 ## 인적사항
 - **이름** : 최재홍 <br>
 - **소속** : <br>
@@ -10,168 +23,31 @@
   - 4학년
 - **Email** : jae_apple@naver.com
 ---
- 
-## 📋2021-2022 주요 커리큘럼 수강 이력
 
-<table>
-  <tr>
-    <th>학년</th>
-    <th>학기</th>
-    <th>구분</th>
-    <th>과목명</th>
-    <th>학점</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>1</th>
-    <th>전공필수</th>
-    <th>자바프로그래밍1</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>1</th>
-    <th>전공필수</th>
-    <th>이산구조론</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>1</th>
-    <th>기초 - 정보</th>
-    <th>컴퓨팅사고와 문제해결 - 파이썬</th>
-    <th>2</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>전공필수</th>
-    <th>자바프로그래밍2</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>전공필수</th>
-    <th>선형대수</th>
-    <th>3</th>
-  </tr>
-   <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>기초 - 정보</th>
-    <th>창의코딩 - 웹</th>
-    <th>2</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>소프트웨어개론</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>자료구조</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>C프로그래밍</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>데이터사이언스기초</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>소프트웨어 세미나</th>
-    <th>1</th>
-  </tr>
-</table>
-
+## 동아리 및 멘토링 활동
+- **2022 학술동아리 <멀티플렉스>**
+  - 파이썬 기초 멘토
+  - 하계 방학 딥러닝 멘토
 ---
 
-## 🖊동아리 및 멘토링 활동
-- **2021~2022 학술동아리 <씨애랑> 딥러닝팀**
-  - 신입생 JAVA 교육 참여
-  - 하계 방학 딥러닝 팀 교육 참여
-- **2021 1학기 JAVA 멘토링 참가**
----
+## 대회 참여 이력
+- **2021년도**
+  - DACON 카메라 이미지 품질 향상 AI 경진대회 (110 / 228)
+  - Kaggle : Body Morphometry: Kidney and Tumor (10/27)
+  - Kaggle(교내) : 휴먼 액티비티 인식 (2위)
+  - Kaggle(교내) : 뇌신호를 이용한 알파벳 분류 및 입력 (1위)
+  - 2021 SW Week(교내) HBC-5 오픈소스 딥러닝 해커톤 (1위)
+  - 21 인공지능 학습용 데이터 온라인 해커톤
+  - 21 SW 아이디어 대회 (동상)
+- **2022년도**
+  - Kaggle(교내) : 로봇 표면 탐지하기(1위)
+  - 2022 교내 빅데이터/AI해커톤 (최우수상)
+  - DACON Computer Vision 이상치 탐지 알고리즘 경진대회(67/481)
+  - DACON 생육 환경 최적화 경진대회(27/137)
 
-## 📄특강  내역
-- **2021**
-  - Github와 sourcetree를 이용한 SW개발 형상 관리 방법
-  - Connected AI Service for the Next-Generation Mobile System
-  - Automotive IVI SW 개발
-  - UML을 이용한 SW설계 기초 특강
-  - 도커의 개념 및 실습
-  - ASIC Design and Verfication
-  - SQL과 자바 데이터 베이스 프로그래밍
-  - Introduction to Intelligent Algorithms for Automated Vehicle System
-  - 오픈소스 개요
-  - Microkernel Real-time Operating Systems and Embedded Systems Integration
-  - 선배가 바라는 SW신입사원
-  - 제품 내장형 AI 동향
-  - 2021년 SW빌리지 정주형 교육 - C언어 기초
-  - 2021년 SW빌리지 정주형 교육 - Python 기초
-  - SW개발직군 포트폴리오 구성법 및 github에 포트폴리오 만들기
-  - 스티브잡스처럼 프레젠테이션 하는 방법 기초편
-  - Personalization
-  - 나를 업그레이드 시켜주는 기술보고서 작성법
-  - My Entrepreneurial Story in Canada-Airy3D inc.
-  - 글로벌 소프트에어 전문가로 성장하기
-  - [강원 관광테크] 인공지능 교육
-  - 공개SW 오픈소스와 클라우드
-  - 오픈소스SW 라이선스 교육
-  - 사이버보안 빅데이터 교육
-  - 메타버스 GatherTown 제작&활용과정 교육
-- **2022**
-  - Github 활용 개인 포트폴리오 제작
-  - 보안 취약점 사례로 알아보는 웹해킹 입문
----
-
-## 📄주요 수강 교육 
-- **VR/AR 콘텐츠 제작자 과정** <br>
-  - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 VR/AR 제작 기초	
-  - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 웹기반 AR콘텐츠 제작법	
-  - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 AR 콘텐츠 제작법	
-  - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 VR 콘텐츠 제작법<br>
-  <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
-
-- **파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
-  <img width="170" height = "200" alt="화면 캡처 2022-04-29 163434" src="https://user-images.githubusercontent.com/80821610/165902560-d8f9102f-1e82-4e89-a779-c39286067c35.png">
----
-
-## 🖊테스트
-- 2021년 제15회 TOPCIT
-- Hally SW Week - 기초대회[파이썬 퀴즈 온 더 한림]
-- [SW Week 대회] 2021 Coding Festival
-- 2021년 제16회 TOPCIT
-- 2022년 제17회 TOPCIT (예정)
----
-
-## 🤔앞으로의 활동 계획
-- **SW 전공 관련 능력 향상**
-  - Baekjoon/프로그래머스 등의 사이트를 이용한 코딩 테스트 연습
-  - 삼성 청년 SW 아카데미(SSAFY) 참가
-  - SW 마에스트로 참가
-  - 캡스톤 프로젝트 참여
-  - TOPCIT 고득점
-- **외국어 능력 향상**
-  - 영어 회화 
-  - TOEIC/TOEFL
----
-
-## 🤔SW학습을 통해 이루고 싶은 점
-아직 프로그래밍 실력이 많이 부족하나 차근 차근 능력을 길러나아갈 예정입니다. 또한 지금까지 해왔던 것처럼 다양한 특강을 통해 SW 전반의 폭넓은 이해를 하고 싶고, 다양한 분야에서의 나의 관심 분야를 좁여나가며 한 분야의 전문가가 되는 것을 목표로 잡고 있습니다.
+## 개인,팀 프로젝트
+- GAN-based Synthetic Medical Image Augmentation for increased CNN Performance
+  Github Page : https://github.com/JaeHongChoe/capstone
+  **~ing**
+- Blind Image-based Source Identification for FDM 3D Printed Content
+- 의료 프로젝트
