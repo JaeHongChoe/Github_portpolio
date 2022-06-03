@@ -2,46 +2,13 @@
 
 # 2022 포트폴리오
 
-## 🧑‍🎓인적&nbsp;사항
-- **이름** : 김진영 <br>
+## 🧑‍🎓인적사항
+- **이름** : 최재홍 <br>
 - **소속** : <br>
   - 전공 : 빅데이터 <br>
-  - 부전공 : 스마트 IOT <br>
-  - 교직 이수 중 <br>
-- **Email** : 
-- **Github 주소** : jinyoung3807.github.com
----
-
-##  ✏학습 프로그래밍 언어
-1. java
-   ```java
-     System.out.println("Hello Java");
-   ```
-2. java script
-    ```java script
-     document.write("Hello Java script")
-     ``` 
-4. python
-   ```python
-     print("Hello Python")
-   ``` 
-6. C
-   ```c
-     printf("Hello C");
-   ```
-7. R
-   ```R
-     print("Hello R")
-   ``` 
----
-
-## 🏆취득 자격증
-- **IP 정보 검색사** <br>
-
-- **Adobe Premiere Pro** <br>
-  <img width="236" alt="premiere pro" src="https://user-images.githubusercontent.com/80821610/165899223-00e631dd-fc7f-47ca-b4a6-d3daad91330a.png">
-  
-- **GAIQ**(Google Analytics Individual Qualification) <br>
+  - 부전공 : AI로봇융합 <br>
+  - 4학년
+- **Email** : jae_apple@naver.com
 ---
  
 ## 📋2021-2022 주요 커리큘럼 수강 이력
