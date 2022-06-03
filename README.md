@@ -53,7 +53,7 @@
 - GAN-based Synthetic Medical Image Augmentation for increased CNN Performance
   Github Page : https://github.com/JaeHongChoe/capstone
   
- **## ~ing** 
+ ## **~ing** 
 
 - Blind Image-based Source Identification for FDM 3D Printed Content
 - 의료 프로젝트
