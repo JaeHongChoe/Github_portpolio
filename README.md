@@ -51,6 +51,7 @@
 
 ## 개인,팀 프로젝트
 - GAN-based Synthetic Medical Image Augmentation for increased CNN Performance
+
   Github Page : https://github.com/JaeHongChoe/capstone
   
  ## **~ing** 
